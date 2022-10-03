@@ -1,0 +1,5 @@
+# Fichiers latex build à ne pas tracker.
+
+mainNotes_PHS8230
+!mainNotes_PHS8230.tex
+.DS_Store
