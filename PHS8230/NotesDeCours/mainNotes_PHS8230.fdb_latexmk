@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex mainNotes_PHS8230"] 1664748139 "mainNotes_PHS8230.aux" "mainNotes_PHS8230.bbl" "mainNotes_PHS8230" 1664825869
-  "mainNotes_PHS8230.aux" 1664825868 829 0f1afd60a34c063995cbbbf3da253acb "pdflatex"
+["bibtex mainNotes_PHS8230"] 1664748139 "mainNotes_PHS8230.aux" "mainNotes_PHS8230.bbl" "mainNotes_PHS8230" 1664825901
+  "mainNotes_PHS8230.aux" 1664825901 829 0f1afd60a34c063995cbbbf3da253acb "pdflatex"
   (generated)
-  "mainNotes_PHS8230.bbl"
   "mainNotes_PHS8230.blg"
-["pdflatex"] 1664825866 "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.tex" "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.pdf" "mainNotes_PHS8230" 1664825869
-  "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.aux" 1664825868 829 0f1afd60a34c063995cbbbf3da253acb ""
-  "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.tex" 1664825865 534 b8b1d179285c3a7335d81adc4a8583a9 ""
+  "mainNotes_PHS8230.bbl"
+["pdflatex"] 1664825899 "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.tex" "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.pdf" "mainNotes_PHS8230" 1664825901
+  "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.aux" 1664825901 829 0f1afd60a34c063995cbbbf3da253acb ""
+  "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.tex" 1664825898 535 16d452c7e108af7c61f8a8f478f9cd17 ""
   "/Users/fred/template_latex/packages.tex" 1664747797 2026 5963d35659f2a2539e205be35a80d37a ""
   "/Users/fred/template_latex/preamble.tex" 1663969619 57 0b6fd2ba3bf4bb54870aa49f756f4285 ""
-  "/dev/null" 1664825868 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/dev/null" 1664825875 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -284,14 +284,14 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "mainNotes_PHS8230.aux" 1664825868 829 0f1afd60a34c063995cbbbf3da253acb "pdflatex"
+  "mainNotes_PHS8230.aux" 1664825901 829 0f1afd60a34c063995cbbbf3da253acb "pdflatex"
   "mainNotes_PHS8230.bbl" 1664748139 0 d41d8cd98f00b204e9800998ecf8427e "bibtex mainNotes_PHS8230"
-  "mainNotes_PHS8230.out" 1664825868 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "mainNotes_PHS8230.tex" 1664825865 534 b8b1d179285c3a7335d81adc4a8583a9 ""
+  "mainNotes_PHS8230.out" 1664825900 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "mainNotes_PHS8230.tex" 1664825898 535 16d452c7e108af7c61f8a8f478f9cd17 ""
   (generated)
   "mainNotes_PHS8230.log"
+  "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.pdf"
   "mainNotes_PHS8230.aux"
   "mainNotes_PHS8230.out"
   "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.log"
-  "/Users/fred/Documents/Polymtl/A22/PHS8230 - Optique Quantique/PHS8230_Latex/PHS8230/NotesDeCours/mainNotes_PHS8230.pdf"
   "mainNotes_PHS8230.pdf"
