@@ -1,7 +1,0 @@
-# LaTeX build files
-*.aux
-*.files
-*.log
-*.synctex.gz
-*.pdf
-*.fls
